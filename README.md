@@ -12,3 +12,6 @@ This repository contains my solutions to various algorithmic problems encountere
 
 ### 📁 Structure
 Each folder corresponds to a specific competition year.
+
+### 📝 Notes:
+Some of the solutions may be incomplete or unoptimized since they were done when I was in high school and new to programming.
