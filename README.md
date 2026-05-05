@@ -14,4 +14,4 @@ This repository contains my solutions to various algorithmic problems encountere
 Each folder corresponds to a specific competition year.
 
 ### 📝 Notes:
-Some of the solutions may be incomplete or unoptimized since they were done when I was in high school and new to programming.
+Some of the solutions may be incomplete or unoptimized since they were done when I was in high school and new to programming. Also back then since I was starting with all of this I did not follow any conventions hence the name of variables are in bosnian so are the comments.
